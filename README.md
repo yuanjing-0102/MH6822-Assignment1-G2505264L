@@ -4,6 +4,8 @@
 **Matriculation ID:** G2505264L
 **Email:** YUANJING001@e.ntu.edu.sg
 
+record link:https://drive.google.com/file/d/1Rsi7GetriFhTQBYyU5HNs0-IXMBv1Ox3/view?usp=drive_link
+
 ---
 
 ## Assignment Overview
